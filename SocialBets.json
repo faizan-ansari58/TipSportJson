@@ -1,0 +1,690 @@
+[
+    {
+        "Competition Title": "Economic bets for 2023, Finance",
+        "Match ID": 5174127,
+        "Match Title": "Economic events in 2023",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-ekonomicke-udalosti-v-roce-2023/5174127",
+        "Match odds": [
+            {
+                "Market Title": "Maximum rate of 1 Bitcoin in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "Less than 35432.1",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Maximum rate of 1 Bitcoin in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "35432.1 and above",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Maximum rate of 1 Bitcoin in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "Less than 41234.5",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Maximum rate of 1 Bitcoin in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "41234.5 and above",
+                    "Odd value": 3.48
+                }
+            },
+            {
+                "Market Title": "Maximum rate of 1 Bitcoin in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "Less than 68000.1",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Maximum rate of 1 Bitcoin in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "68000.1 and above",
+                    "Odd value": 7.43
+                }
+            },
+            {
+                "Market Title": "Maximum exchange rate of 1 oz of gold in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "Less than 2100.5",
+                    "Odd value": 1.55
+                }
+            },
+            {
+                "Market Title": "Maximum exchange rate of 1 oz of gold in USD in 2023 (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "2100.5 and above",
+                    "Odd value": 2.26
+                }
+            },
+            {
+                "Market Title": "Year-on-year growth of the consumer price index in % for the month of September 2023 in the Czech Republic according to the CZSO",
+                "Odds": {
+                    "Name": "Less than 8.5",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "Year-on-year growth of the consumer price index in % for the month of September 2023 in the Czech Republic according to the CZSO",
+                "Odds": {
+                    "Name": "8.5 and above",
+                    "Odd value": 2.68
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Commodity prices and exchange rates, Finance",
+        "Match ID": 4901596,
+        "Match Title": "Commodity prices and exchange rates",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-ceny-komodit-a-devizove-kurzy/4901596",
+        "Match odds": [
+            {
+                "Market Title": "Price of 1 barrel of Brent oil in USD on 22/08/2023 at 15:02 CET (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "Less than 80.5",
+                    "Odd value": 1.32
+                }
+            },
+            {
+                "Market Title": "Price of 1 barrel of Brent oil in USD on 22/08/2023 at 15:02 CET (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "80.5 and above",
+                    "Odd value": 3.04
+                }
+            },
+            {
+                "Market Title": "Price of 1 oz of gold in USD on 22/08/2023 at 15:02 CET (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "Less than 1971.5",
+                    "Odd value": 1.6
+                }
+            },
+            {
+                "Market Title": "Price of 1 oz of gold in USD on 22/08/2023 at 15:02 CET (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "1971.5 and up",
+                    "Odd value": 2.16
+                }
+            },
+            {
+                "Market Title": "Exchange rate 1 Bitcoin in USD on 22/08/2023 at 15:02 CET (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "Less than 27987.5",
+                    "Odd value": 2.68
+                }
+            },
+            {
+                "Market Title": "Exchange rate 1 Bitcoin in USD on 22/08/2023 at 15:02 CET (evaluation according to kurzy.cz)",
+                "Odds": {
+                    "Name": "27987.5 and up",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "Exchange rate of EUR 1 according to the CNB for 22 August 2023",
+                "Odds": {
+                    "Name": "Less than 23.71",
+                    "Odd value": 1.84
+                }
+            },
+            {
+                "Market Title": "Exchange rate of EUR 1 according to the CNB for 22 August 2023",
+                "Odds": {
+                    "Name": "23.71 and more",
+                    "Odd value": 1.84
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Slovakia - parliamentary elections 2023, Politics",
+        "Match ID": 5259903,
+        "Match Title": "Slovakia - the first prime minister with the confidence of the NRSR after the elections",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-slovensko-prvni-premier-s-duverou-nrsr-po-volbach/5259903",
+        "Match odds": [
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Sime\u010dka Michal",
+                    "Odd value": 2.5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Fico Robert",
+                    "Odd value": 2.8
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Peter Pellegrini",
+                    "Odd value": 2.9
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Kollar Boris",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Matovi\u010d Igor",
+                    "Odd value": 60.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Sulik Richard",
+                    "Odd value": 60.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Eduard Heger",
+                    "Odd value": 150.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Uhr\u00edk Milan",
+                    "Odd value": 200.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Majersky Milan",
+                    "Odd value": 250.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Thanks Andrey",
+                    "Odd value": 400.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Remi\u0161ov\u00e1 Veronika",
+                    "Odd value": 500.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Forr\u00f3 Kriszti\u00e1n",
+                    "Odd value": 600.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Boiler Marian",
+                    "Odd value": 600.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Slovakia - presidential election 2024, Politics",
+        "Match ID": 5354795,
+        "Match Title": "Slovakia - presidential election 2024 - overall",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-slovensko-prezidentske-volby-2024-celkove/5354795",
+        "Match odds": [
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Kor\u010dok Ivan",
+                    "Odd value": 1.7
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Peter Pellegrini",
+                    "Odd value": 3
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Kubis J\u00e1n",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Fico Robert",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Miroslav Laj\u010d\u00e1k",
+                    "Odd value": 11
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Master Robert",
+                    "Odd value": 12
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "\u017dilinka Maro\u0161",
+                    "Odd value": 19
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Peter Weiss",
+                    "Odd value": 20.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Walk Radoslav",
+                    "Odd value": 45
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Stephen Harabin",
+                    "Odd value": 50.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Lexmann Miriam",
+                    "Odd value": 85
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Kiska Andrej",
+                    "Odd value": 125
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Radi\u010dov\u00e1 Iveta",
+                    "Odd value": 125
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Matovi\u010d Igor",
+                    "Odd value": 175
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Bugar B\u00e9la",
+                    "Odd value": 250.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Thanks Andrey",
+                    "Odd value": 250.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Dzurinda Mikul\u00e1\u0161",
+                    "Odd value": 250.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Boiler Marian",
+                    "Odd value": 250.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Gy\u00f6rgy Gyimesi",
+                    "Odd value": 300.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Hopper Eduard",
+                    "Odd value": 300.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Vladimir Meciar",
+                    "Odd value": 300.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "USA - US Presidential Election 2024, Politics",
+        "Match ID": 4908797,
+        "Match Title": "2024 US Presidential Election",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-prezidentske-volby-usa-2024/4908797",
+        "Match odds": [
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Joe Biden",
+                    "Odd value": 2.45
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Donald Trump",
+                    "Odd value": 3
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Ron DeSantis",
+                    "Odd value": 6
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Kennedy Jr. Robert F.",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Newsom Gavin",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Michelle Obama",
+                    "Odd value": 30.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Harris Kamala",
+                    "Odd value": 33
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Haley Nikki",
+                    "Odd value": 50.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Scott Tim",
+                    "Odd value": 50.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Buttigieg Pete",
+                    "Odd value": 65
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Jon Manchin",
+                    "Odd value": 65
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Pence Mike",
+                    "Odd value": 70.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Ramaswamy Vivek",
+                    "Odd value": 80.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Mike Pompeo",
+                    "Odd value": 85
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Hello Chris",
+                    "Odd value": 90.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Youngkin Glenn",
+                    "Odd value": 90.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Hillary Clinton",
+                    "Odd value": 110.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Christie Chris",
+                    "Odd value": 110.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Bernie Sanders",
+                    "Odd value": 110.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Warren Elizabeth",
+                    "Odd value": 110.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Foreman Joseph",
+                    "Odd value": 300.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Dwayne Johnson",
+                    "Odd value": 300.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "West Cornel",
+                    "Odd value": 300.0
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "West Kanye",
+                    "Odd value": 300.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Weather in the Czech Republic 2023, Social bets",
+        "Match ID": 4964174,
+        "Match Title": "Maximum daily temperature in degrees C",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-maximalni-denni-teplota-ve-stupnich-c/4964174",
+        "Match odds": [
+            {
+                "Market Title": "The maximum daily temperature in degrees C according to chmi.cz will be 15.7.2023 8:00 \u2013 16.7.2023 8:00 SEL\u010c on met. Praha-Ruzyn\u011b station",
+                "Odds": {
+                    "Name": "Less than 27.9",
+                    "Odd value": 1.84
+                }
+            },
+            {
+                "Market Title": "The maximum daily temperature in degrees C according to chmi.cz will be 15.7.2023 8:00 \u2013 16.7.2023 8:00 SEL\u010c on met. Praha-Ruzyn\u011b station",
+                "Odds": {
+                    "Name": "27.9 and more",
+                    "Odd value": 1.84
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Weather in the Czech Republic 2023, Social bets",
+        "Match ID": 5296416,
+        "Match Title": "The highest measured temperature in the Czech Republic 1.7.-1.9.2023",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-nejvyssi-namerena-teplota-v-cr-17-192023/5296416",
+        "Match odds": [
+            {
+                "Market Title": "The highest measured temperature in the Czech Republic since 1.7. by 1 September 2023, according to chmi.cz, it will be +40.4 degrees C",
+                "Odds": {
+                    "Name": "Less than 40.4",
+                    "Odd value": 1.14
+                }
+            },
+            {
+                "Market Title": "The highest measured temperature in the Czech Republic since 1.7. by 1 September 2023, according to chmi.cz, it will be +40.4 degrees C",
+                "Odds": {
+                    "Name": "40.4 and above",
+                    "Odd value": 4.77
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Weather in SR 2023, Social bets",
+        "Match ID": 5296418,
+        "Match Title": "Highest measured temperature in SR 1.7.-1.9.2023",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-nejvyssi-namerena-teplota-v-sr-17-192023/5296418",
+        "Match odds": [
+            {
+                "Market Title": "The highest temperature measured in SR since 1.7. by 1 September 2023, according to shmu.sk, it will be +40.4 degrees C",
+                "Odds": {
+                    "Name": "Less than 40.4",
+                    "Odd value": 1.21
+                }
+            },
+            {
+                "Market Title": "The highest temperature measured in SR since 1.7. by 1 September 2023, according to shmu.sk, it will be +40.4 degrees C",
+                "Odds": {
+                    "Name": "40.4 and above",
+                    "Odd value": 3.8
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Golden ball 2023, Sports betting",
+        "Match ID": 5106494,
+        "Match Title": "Ballon d'Or 2023",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/spolecenske-sazky-zlaty-mic-2023/5106494",
+        "Match odds": [
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.44
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.5
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.43
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 40.0
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            }
+        ]
+    }
+]

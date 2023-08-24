@@ -1,0 +1,130 @@
+[
+    {
+        "Competition Title": "FIH Pro League, Field Hockey - Men",
+        "Match ID": 5312225,
+        "Match Title": "Netherlands-Germany",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/pozemni-hokej-nizozemsko-nemecko-2z/5312225",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Netherlands",
+                    "Odd value": 2.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.8
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Germany",
+                    "Odd value": 2.48
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "The Netherlands did not lose",
+                    "Odd value": 1.41
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.18
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Germany did not lose",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Netherlands",
+                    "Odd value": 1.75
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Germany",
+                    "Odd value": 1.85
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "FIH Pro League, Field Hockey - Women",
+        "Match ID": 5312256,
+        "Match Title": "Netherlands W-N.Zeland W",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/pozemni-hokej-nizozemsko-z-nzeland-z-2z/5312256",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "The Netherlands \u017d",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "New Zealand Z",
+                    "Odd value": 17.8
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Did not lose Netherlands W",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Did not lose N.Zeland W",
+                    "Odd value": 9.13
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "The Netherlands \u017d",
+                    "Odd value": 1.01
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "New Zealand Z",
+                    "Odd value": 8.26
+                }
+            }
+        ]
+    }
+]

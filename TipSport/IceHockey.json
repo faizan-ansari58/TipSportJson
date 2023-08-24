@@ -1,0 +1,606 @@
+[
+    {
+        "Competition Title": "NHL Entry Draft 2023, Ice Hockey - Men",
+        "Match ID": 5267032,
+        "Match Title": "NHL Entry Draft 2023",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/ledni-hokej-nhl-vstupni-draft-2023/5267032",
+        "Match odds": [
+            {
+                "Maket Title": "Benson Zach to be drafted before Reinbacher David",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.1
+                }
+            },
+            {
+                "Maket Title": "Benson Zach to be drafted before Reinbacher David",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.61
+                }
+            },
+            {
+                "Maket Title": "Benson Zach to be drafted in third place",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 12
+                }
+            },
+            {
+                "Maket Title": "Benson Zach to be drafted in third place",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Bonk Oliver to be drafted in Round 1",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.75
+                }
+            },
+            {
+                "Maket Title": "Bonk Oliver to be drafted in Round 1",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.9
+                }
+            },
+            {
+                "Maket Title": "Carlsson Leo to be drafted in 1st-2nd position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Maket Title": "Carlsson Leo to be drafted in 1st-2nd position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Maket Title": "Carlsson Leo to be drafted in 3rd place",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.6
+                }
+            },
+            {
+                "Maket Title": "Carlsson Leo to be drafted in 3rd place",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Maket Title": "Cristall Andrew to be drafted before Brindley Gavin",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.65
+                }
+            },
+            {
+                "Maket Title": "Cristall Andrew to be drafted before Brindley Gavin",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.03
+                }
+            },
+            {
+                "Maket Title": "Danielson Nate to be drafted in 1st-10th place",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.8
+                }
+            },
+            {
+                "Maket Title": "Danielson Nate to be drafted in 1st-10th place",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.35
+                }
+            },
+            {
+                "Maket Title": "Dalibor will be drafted before Wood Matthew",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Maket Title": "Dalibor will be drafted before Wood Matthew",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 3.35
+                }
+            },
+            {
+                "Maket Title": "Dvorsk\u00fd Dalibor will be drafted in 1st-8th position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.85
+                }
+            },
+            {
+                "Maket Title": "Dvorsk\u00fd Dalibor will be drafted in 1st-8th position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.8
+                }
+            },
+            {
+                "Maket Title": "Fantilli Adam will be drafted in 1st-2nd position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.13
+                }
+            },
+            {
+                "Maket Title": "Fantilli Adam will be drafted in 1st-2nd position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 4.67
+                }
+            },
+            {
+                "Maket Title": "Gajan Adam will be drafted before Dvo\u0159\u00e1k Jakub",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.75
+                }
+            },
+            {
+                "Maket Title": "Gajan Adam will be drafted before Dvo\u0159\u00e1k Jakub",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.9
+                }
+            },
+            {
+                "Maket Title": "Honzek Samuel will be drafted earlier than Szal\u00e9 Eduard",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.75
+                }
+            },
+            {
+                "Maket Title": "Honzek Samuel will be drafted earlier than Szal\u00e9 Eduard",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.9
+                }
+            },
+            {
+                "Maket Title": "Honzek Samuel will be drafted in 1st-20th position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.55
+                }
+            },
+            {
+                "Maket Title": "Honzek Samuel will be drafted in 1st-20th position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.2
+                }
+            },
+            {
+                "Maket Title": "Hrabal Michael to be drafted before Bonk Oliver",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.03
+                }
+            },
+            {
+                "Maket Title": "Hrabal Michael to be drafted before Bonk Oliver",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.65
+                }
+            },
+            {
+                "Maket Title": "Hrabal Michael to be drafted in Round 1",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.3
+                }
+            },
+            {
+                "Maket Title": "Hrabal Michael to be drafted in Round 1",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.51
+                }
+            },
+            {
+                "Maket Title": "Leonard Ryan to be drafted before Moore Oliver",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Maket Title": "Leonard Ryan to be drafted before Moore Oliver",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 3.35
+                }
+            },
+            {
+                "Maket Title": "Leonard Ryan to be drafted in 1st-9th position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.33
+                }
+            },
+            {
+                "Maket Title": "Leonard Ryan to be drafted in 1st-9th position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.88
+                }
+            },
+            {
+                "Maket Title": "Michkov Matvei will be drafted in 3rd place",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 11
+                }
+            },
+            {
+                "Maket Title": "Michkov Matvei will be drafted in 3rd place",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Perreault Gabe to be drafted in 1st-13th position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.57
+                }
+            },
+            {
+                "Maket Title": "Perreault Gabe to be drafted in 1st-13th position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.16
+                }
+            },
+            {
+                "Maket Title": "Price Caden to be drafted before \u0160trb\u00e1k Maxim",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.7
+                }
+            },
+            {
+                "Maket Title": "Price Caden to be drafted before \u0160trb\u00e1k Maxim",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.96
+                }
+            },
+            {
+                "Maket Title": "Reinbacher David to be drafted in 1st-7th position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.85
+                }
+            },
+            {
+                "Maket Title": "Reinbacher David to be drafted in 1st-7th position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.79
+                }
+            },
+            {
+                "Maket Title": "Smith Will to be drafted in 1st-2nd place",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Maket Title": "Smith Will to be drafted in 1st-2nd place",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Smith Will to be drafted in third place",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 3
+                }
+            },
+            {
+                "Maket Title": "Smith Will to be drafted in third place",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.31
+                }
+            },
+            {
+                "Maket Title": "Crazy Eduard will be drafted in 1st-20th position",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.96
+                }
+            },
+            {
+                "Maket Title": "Crazy Eduard will be drafted in 1st-20th position",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.7
+                }
+            },
+            {
+                "Maket Title": "Number of Drafted Defenders in Round 1",
+                "Odds": {
+                    "Name": "Less than 7",
+                    "Odd value": 1.65
+                }
+            },
+            {
+                "Maket Title": "Number of Drafted Defenders in Round 1",
+                "Odds": {
+                    "Name": "7th or more",
+                    "Odd value": 2.03
+                }
+            },
+            {
+                "Maket Title": "Number of Drafted Attackers in Round 1",
+                "Odds": {
+                    "Name": "Less than 26",
+                    "Odd value": 2.03
+                }
+            },
+            {
+                "Maket Title": "Number of Drafted Attackers in Round 1",
+                "Odds": {
+                    "Name": "26 and more",
+                    "Odd value": 1.65
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "MS 2024 Czech Republic - overall, tournament stats, Ice hockey - men",
+        "Match ID": 5303699,
+        "Match Title": "MS 2024 - overall",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/ledni-hokej-ms-2024-celkove/5303699",
+        "Match odds": [
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.8
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 5.7
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 6
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 8.5
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 10.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 20.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 35
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 80.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 250.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 250.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 350.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 350.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1000.0
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1111
+                }
+            },
+            {
+                "Maket Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "Competition Title": "Tour de France, Cycling - Men",
+        "Match ID": 5318656,
+        "Match Title": "Tour de France - overall",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/cyklistika-tour-de-france-celkove/5318656",
+        "Match odds": [
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Vingegaard Jonas",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Poga\u010dar Tadej",
+                    "Odd value": 2.1
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Hindley Jai",
+                    "Odd value": 21
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Mas Enric",
+                    "Odd value": 31
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Skjelmose Jensen Mattias",
+                    "Odd value": 35
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Carapaz Richard",
+                    "Odd value": 41
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Gouda David",
+                    "Odd value": 41
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Landa Mikel",
+                    "Odd value": 41
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "O'Connor Ben",
+                    "Odd value": 41
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Adam Yates",
+                    "Odd value": 51
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Bardet Romain",
+                    "Odd value": 61
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Pidcock Thomas",
+                    "Odd value": 61
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Rodr\u00edguez Carlos",
+                    "Odd value": 61
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Yates Simon",
+                    "Odd value": 61
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Bernal Egan",
+                    "Odd value": 81
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Bilbao Pello",
+                    "Odd value": 81
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Martinez Daniel",
+                    "Odd value": 81
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Van Aert Wout",
+                    "Odd value": 101
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Alaphilippe Julian",
+                    "Odd value": 151
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Jorgenson Matteo",
+                    "Odd value": 151
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Kiss Sepp",
+                    "Odd value": 151
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "Soler Marc",
+                    "Odd value": 151
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Poga\u010dar Tadej",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Vingegaard Jonas",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Hindley Jai",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Mas Enric",
+                    "Odd value": 10.0
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Skjelmose Jensen Mattias",
+                    "Odd value": 12
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Carapaz Richard",
+                    "Odd value": 14
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Gouda David",
+                    "Odd value": 14
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Landa Mikel",
+                    "Odd value": 14
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "O'Connor Ben",
+                    "Odd value": 14
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Adam Yates",
+                    "Odd value": 18
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Bardet Romain",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Pidcock Thomas",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Rodr\u00edguez Carlos",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Yates Simon",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Bernal Egan",
+                    "Odd value": 31
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Bilbao Pello",
+                    "Odd value": 31
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Martinez Daniel",
+                    "Odd value": 31
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Alaphilippe Julian",
+                    "Odd value": 41
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Kiss Sepp",
+                    "Odd value": 41
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Van Aert Wout",
+                    "Odd value": 41
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Jorgenson Matteo",
+                    "Odd value": 61
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "Soler Marc",
+                    "Odd value": 61
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Poga\u010dar Tadej",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Vingegaard Jonas",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Hindley Jai",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Mas Enric",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Skjelmose Jensen Mattias",
+                    "Odd value": 6
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Carapaz Richard",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Gouda David",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Landa Mikel",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "O'Connor Ben",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Adam Yates",
+                    "Odd value": 9
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Bardet Romain",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Pidcock Thomas",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Rodr\u00edguez Carlos",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Yates Simon",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Bernal Egan",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Bilbao Pello",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Martinez Daniel",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Van Aert Wout",
+                    "Odd value": 19
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Alaphilippe Julian",
+                    "Odd value": 21
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Kiss Sepp",
+                    "Odd value": 21
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Jorgenson Matteo",
+                    "Odd value": 31
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "Soler Marc",
+                    "Odd value": 31
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.7
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.1
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.64
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 3.48
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 3.48
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Vingegaard Jonas",
+                    "Odd value": 1.8
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Poga\u010dar Tadej",
+                    "Odd value": 1.88
+                }
+            },
+            {
+                "Market Title": "Rank 1st and 2nd",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Rank 1st and 2nd",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Rank 1st and 2nd",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 4
+                }
+            },
+            {
+                "Market Title": "Rank 1st and 2nd",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.19
+                }
+            },
+            {
+                "Market Title": "The winner will be from a pair",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.3
+                }
+            },
+            {
+                "Market Title": "The winner will be from a pair",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 3.15
+                }
+            }
+        ]
+    }
+]

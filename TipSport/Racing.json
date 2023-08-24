@@ -1,0 +1,866 @@
+[
+    {
+        "Competition Title": "Ballinrobe, Horse Racing",
+        "Match ID": 5363377,
+        "Match Title": "Ballinrobe - 5th Race",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/dostihy-ballinrobe-5-dostih/5363377",
+        "Match odds": [
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "13 Lizzy's Filly",
+                    "Odd value": 2.6
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "11 Banned",
+                    "Odd value": 3.4
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "5 Expound",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "7 Granville Street",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "3 Chicago Storm",
+                    "Odd value": 11
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "2 Black Soul",
+                    "Odd value": 26
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "6 Game Nation",
+                    "Odd value": 17
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "9 Rock Basher",
+                    "Odd value": 34
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "10 Sat Easy Way",
+                    "Odd value": 67
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "8 Plunkett Street",
+                    "Odd value": 67
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "1 Angelus Griseo",
+                    "Odd value": 101
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "4 Cornmarket",
+                    "Odd value": 101
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "13 Lizzy's Filly",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "11 Banned",
+                    "Odd value": 1.73
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "5 Expound",
+                    "Odd value": 3.25
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "7 Granville Street",
+                    "Odd value": 3.25
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "3 Chicago Storm",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "2 Black Soul",
+                    "Odd value": 9.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "6 Game Nation",
+                    "Odd value": 6.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "9 Rock Basher",
+                    "Odd value": 10.0
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "10 Sat Easy Way",
+                    "Odd value": 17
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "1 Angelus Griseo",
+                    "Odd value": 19
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "8 Plunkett Street",
+                    "Odd value": 17
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "4 Cornmarket",
+                    "Odd value": 19
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "13 Lizzy's Filly",
+                    "Odd value": 1.22
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "11 Banned",
+                    "Odd value": 1.33
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "5 Expound",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "7 Granville Street",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "3 Chicago Storm",
+                    "Odd value": 3
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "2 Black Soul",
+                    "Odd value": 6
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "6 Game Nation",
+                    "Odd value": 4
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "9 Rock Basher",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "10 Sat Easy Way",
+                    "Odd value": 11
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "8 Plunkett Street",
+                    "Odd value": 11
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "1 Angelus Griseo",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "4 Cornmarket",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "13 Lizzy's Filly",
+                    "Odd value": 1.08
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "11 Banned",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "5 Expound",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "7 Granville Street",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "3 Chicago Storm",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "2 Black Soul",
+                    "Odd value": 4
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "6 Game Nation",
+                    "Odd value": 2.75
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "9 Rock Basher",
+                    "Odd value": 4.5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "10 Sat Easy Way",
+                    "Odd value": 9
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "1 Angelus Griseo",
+                    "Odd value": 9.5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "8 Plunkett Street",
+                    "Odd value": 9
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "4 Cornmarket",
+                    "Odd value": 9.5
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Ballinrobe, Horse Racing",
+        "Match ID": 5363378,
+        "Match Title": "Ballinrobe - 6th Race",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/dostihy-ballinrobe-6-dostih/5363378",
+        "Match odds": [
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "4 Sign From Above",
+                    "Odd value": 2.5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "5 Nostra Casa",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "11 Red Vermillion",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "9 Five Zeros",
+                    "Odd value": 8
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "13 Lofoten",
+                    "Odd value": 9
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "2 Big Kittens",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "12 Evening Verse",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "6 The Truant",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "10 Mutadaawel",
+                    "Odd value": 29
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "14 Vintage Gold",
+                    "Odd value": 29
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "7 Longclaw",
+                    "Odd value": 34
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "8 Summer Fly",
+                    "Odd value": 34
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "4 Sign From Above",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "5 Nostra Casa",
+                    "Odd value": 2.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "11 Red Vermillion",
+                    "Odd value": 3.75
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "9 Five Zeros",
+                    "Odd value": 4
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "13 Lofoten",
+                    "Odd value": 4.33
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "2 Big Kittens",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "12 Evening Verse",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "6 The Truant",
+                    "Odd value": 6
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "10 Mutadaawel",
+                    "Odd value": 10.0
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "14 Vintage Gold",
+                    "Odd value": 10.0
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "7 Longclaw",
+                    "Odd value": 11
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "8 Summer Fly",
+                    "Odd value": 11
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "4 Sign From Above",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "5 Nostra Casa",
+                    "Odd value": 1.73
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "11 Red Vermillion",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "9 Five Zeros",
+                    "Odd value": 2.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "13 Lofoten",
+                    "Odd value": 2.88
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "2 Big Kittens",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "12 Evening Verse",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "6 The Truant",
+                    "Odd value": 4
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "10 Mutadaawel",
+                    "Odd value": 8
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "14 Vintage Gold",
+                    "Odd value": 8
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "7 Longclaw",
+                    "Odd value": 8.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "8 Summer Fly",
+                    "Odd value": 8.5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "4 Sign From Above",
+                    "Odd value": 1.13
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "5 Nostra Casa",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "11 Red Vermillion",
+                    "Odd value": 1.73
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "9 Five Zeros",
+                    "Odd value": 1.83
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "13 Lofoten",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "2 Big Kittens",
+                    "Odd value": 2.63
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "12 Evening Verse",
+                    "Odd value": 2.63
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "6 The Truant",
+                    "Odd value": 3.13
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "10 Mutadaawel",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "14 Vintage Gold",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "7 Longclaw",
+                    "Odd value": 6.5
+                }
+            },
+            {
+                "Market Title": "Placing in 4th place",
+                "Odds": {
+                    "Name": "8 Summer Fly",
+                    "Odd value": 6.5
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Ballinrobe, Horse Racing",
+        "Match ID": 5363379,
+        "Match Title": "Ballinrobe - 7th Race",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/dostihy-ballinrobe-7-dostih/5363379",
+        "Match odds": [
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "4 Vera Verto",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "6 Marvelosa",
+                    "Odd value": 3.75
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "3 Molly's Gamble",
+                    "Odd value": 5.5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "8 Pachmena",
+                    "Odd value": 7
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "2 Disco Boots",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "1 Female Soldier",
+                    "Odd value": 9
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "7 Vischio",
+                    "Odd value": 13
+                }
+            },
+            {
+                "Market Title": "Winner",
+                "Odds": {
+                    "Name": "9 Gonetomillgrove",
+                    "Odd value": 23
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "4 Vera Verto",
+                    "Odd value": 1.83
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "6 Marvelosa",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "3 Molly's Gamble",
+                    "Odd value": 2.75
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "8 Pachmena",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "2 Disco Boots",
+                    "Odd value": 3.75
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "1 Female Soldier",
+                    "Odd value": 4.33
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "7 Vischio",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Placement in 2nd place",
+                "Odds": {
+                    "Name": "9 Gonetomillgrove",
+                    "Odd value": 8.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "4 Vera Verto",
+                    "Odd value": 1.44
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "6 Marvelosa",
+                    "Odd value": 1.47
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "3 Molly's Gamble",
+                    "Odd value": 1.83
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "8 Pachmena",
+                    "Odd value": 2.2
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "2 Disco Boots",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "1 Female Soldier",
+                    "Odd value": 2.75
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "7 Vischio",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Placement in 3rd place",
+                "Odds": {
+                    "Name": "9 Gonetomillgrove",
+                    "Odd value": 5
+                }
+            }
+        ]
+    }
+]

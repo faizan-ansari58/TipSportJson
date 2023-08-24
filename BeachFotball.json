@@ -1,0 +1,514 @@
+[
+    {
+        "Competition Title": "African Beach Games - Tunisia, Beach Soccer - Men",
+        "Match ID": 5359246,
+        "Match Title": "Egypt-Libya",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-egypt-libye/5359246",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Egypt",
+                    "Odd value": 1.35
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Libya",
+                    "Odd value": 4.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Egypt did not lose",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing Libya",
+                    "Odd value": 2.79
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Egypt",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Libya",
+                    "Odd value": 3.35
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "African Beach Games - Tunisia, Beach Soccer - Men",
+        "Match ID": 5359247,
+        "Match Title": "Tanzania-Madagascar",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-tanzanie-madagaskar/5359247",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Tanzania",
+                    "Odd value": 8.05
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 9.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Madagascar",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Tanzania did not lose",
+                    "Odd value": 4.36
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Madagascar did not lose",
+                    "Odd value": 1.03
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Tanzania",
+                    "Odd value": 5.51
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Madagascar",
+                    "Odd value": 1.09
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "African Beach Games - Tunisia, Beach Soccer - Men",
+        "Match ID": 5359248,
+        "Match Title": "Comoros-Morocco",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-komory-maroko/5359248",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Chambers",
+                    "Odd value": 18
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 16
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Morocco",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing the Chamber",
+                    "Odd value": 8.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Morocco did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Chambers",
+                    "Odd value": 9.5
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Morocco",
+                    "Odd value": 1.01
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "African Beach Games - Tunisia, Beach Soccer - Men",
+        "Match ID": 5359249,
+        "Match Title": "Kenya-Senegal",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-kena-senegal/5359249",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kenya",
+                    "Odd value": 20.0
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 17
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Senegal",
+                    "Odd value": 1.01
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kenya did not lose",
+                    "Odd value": 9.2
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Senegal did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Kenya",
+                    "Odd value": 10.5
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Senegal",
+                    "Odd value": 1
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Beach Soccer - Men",
+        "Match ID": 5361829,
+        "Match Title": "Italy-Ukraine",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-italie-ukrajina/5361829",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Italy",
+                    "Odd value": 1.55
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 6.4
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Ukraine",
+                    "Odd value": 3.36
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Italy did not lose",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Ukraine did not lose",
+                    "Odd value": 2.21
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Italy",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Ukraine",
+                    "Odd value": 2.6
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Beach Soccer - Men",
+        "Match ID": 5361830,
+        "Match Title": "Portugal-Spain",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-portugalsko-spanelsko/5361830",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Portugal",
+                    "Odd value": 1.65
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 6.1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Spain",
+                    "Odd value": 3.04
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Portugal did not lose",
+                    "Odd value": 1.3
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Spain won't lose",
+                    "Odd value": 2.03
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Portugal",
+                    "Odd value": 1.47
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Spain",
+                    "Odd value": 2.39
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Beach Soccer - Men",
+        "Match ID": 5361831,
+        "Match Title": "Moldova-Switzerland",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-moldavsko-svycarsko/5361831",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Moldova",
+                    "Odd value": 16.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Switzerland",
+                    "Odd value": 1.03
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Moldova did not lose",
+                    "Odd value": 7.81
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Switzerland did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Moldova",
+                    "Odd value": 9.5
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Switzerland",
+                    "Odd value": 1.01
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Beach Soccer - Men",
+        "Match ID": 5361832,
+        "Match Title": "Azerbaijan-Poland",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/plazovy-fotbal-azerbajdzan-polsko/5361832",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Azerbaijan",
+                    "Odd value": 3.82
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 6.8
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Poland",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Azerbaijan did not lose",
+                    "Odd value": 2.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Poland did not lose",
+                    "Odd value": 1.2
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Azerbaijan",
+                    "Odd value": 2.93
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Poland",
+                    "Odd value": 1.32
+                }
+            }
+        ]
+    }
+]

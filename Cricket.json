@@ -1,0 +1,75 @@
+[
+    {
+        "Competition Title": "WC 2023 Qualifiers, Zimbabwe, Cricket - Men",
+        "Match ID": 5343136,
+        "Match Title": "Ireland-UAE",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/kriket-irsko-sae/5343136",
+        "Match odds": [
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Ireland",
+                    "Odd value": 1.3
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "UAE",
+                    "Odd value": 3.03
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "WC 2023 Qualifiers, Zimbabwe, Cricket - Men",
+        "Match ID": 5343135,
+        "Match Title": "Scotland v Sri Lanka",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/kriket-skotsko-sri-lanka/5343135",
+        "Match odds": [
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Scotland",
+                    "Odd value": 4.91
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Sri Lanka",
+                    "Odd value": 1.12
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Friendly Matches, Cricket - Men",
+        "Match ID": 5282527,
+        "Match Title": "England-Australia",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/kriket-anglie-australie-2z/5282527",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "England",
+                    "Odd value": 2.35
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 4.8
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Australia",
+                    "Odd value": 2.15
+                }
+            }
+        ]
+    }
+]

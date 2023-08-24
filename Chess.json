@@ -1,0 +1,692 @@
+[
+    {
+        "Competition Title": "Prague Chess Festival - Masters, Chess",
+        "Match ID": 5356215,
+        "Match Title": "Harikrisna Pentala-Deac Bogdan-Daniel",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-harikrisna-pentala-deac-bogdan-daniel/5356215",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Harikrisna Pentala",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.33
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Deac Bogdan-Daniel",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Not lost by Harikrisna Pentala",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.98
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Deac Bogdan-Daniel undefeated",
+                    "Odd value": 1.13
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Harikrisna Pentala",
+                    "Odd value": 1.56
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Deac Bogdan-Daniel",
+                    "Odd value": 2.25
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Masters, Chess",
+        "Match ID": 5356218,
+        "Match Title": "Keymer Vincent-Martirosyan Haik",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-keymer-vincent-martirosyan-haik/5356218",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Keymer Vincent",
+                    "Odd value": 3.75
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Martirosyan Haik",
+                    "Odd value": 8.5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Keymer Vincent did not lose",
+                    "Odd value": 1.03
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.61
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Martirosyan Haik did not lose",
+                    "Odd value": 1.22
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Keymer Vincent",
+                    "Odd value": 1.33
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Martirosyan Haik",
+                    "Odd value": 3
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Masters, Chess",
+        "Match ID": 5356219,
+        "Match Title": "Navara David-Shankland Sam",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-navara-david-shankland-sam/5356219",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Navara David",
+                    "Odd value": 5.5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.35
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Shankland Sam",
+                    "Odd value": 6
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Navara David did not lose",
+                    "Odd value": 1.09
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.89
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Not losing Shankland Sam",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Navara David",
+                    "Odd value": 1.77
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Shankland Sam",
+                    "Odd value": 1.91
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Masters, Chess",
+        "Match ID": 5356217,
+        "Match Title": "Nguyen Thai Dai Van-Robson Ray",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-nguyen-thai-dai-van-robson-ray/5356217",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Nguyen Thai Dai Van",
+                    "Odd value": 5.25
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Robson Ray",
+                    "Odd value": 5.5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Nguyen Thai Dai Van did not lose",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.68
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Robson Ray didn't lose",
+                    "Odd value": 1.12
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Nguyen Thai Dai Van",
+                    "Odd value": 1.8
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Robson Ray",
+                    "Odd value": 1.88
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Masters, Chess",
+        "Match ID": 5356216,
+        "Match Title": "Wang Hao-Gelfand Boris",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-wang-hao-gelfand-boris/5356216",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Wang Hao",
+                    "Odd value": 2.75
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.62
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Gelfand Boris",
+                    "Odd value": 9.5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Wang Hao did not lose",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.13
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Gelfand Boris did not lose",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Wang Hao",
+                    "Odd value": 1.19
+                }
+            },
+            {
+                "Market Title": "The result of the game without a draw",
+                "Odds": {
+                    "Name": "Gelfand Boris",
+                    "Odd value": 4
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Challengers, Chess",
+        "Match ID": 5356172,
+        "Match Title": "Bartel Mateusz-L'Ami Erwin",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-bartel-mateusz-lami-erwin/5356172",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Bartel Mateusz",
+                    "Odd value": 3.25
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.55
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "L'Ami Erwin",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Bartel Mateusz did not lose",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.26
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "L'Ami Erwin did not lose",
+                    "Odd value": 1.28
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Challengers, Chess",
+        "Match ID": 5356174,
+        "Match Title": "Finn V\u00e1clav-Pech\u00e1\u010d Jergu\u0161",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-finek-vaclav-pechac-jergus/5356174",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "V\u00e1clav the Finn",
+                    "Odd value": 7.75
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.68
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Pech\u00e1\u010d Jergu\u0161",
+                    "Odd value": 2.75
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Fin\u011bk V\u00e1clav did not lose",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.03
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Pech\u00e1\u010d Jergu\u0161 did not lose",
+                    "Odd value": 1.04
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Challengers, Chess",
+        "Match ID": 5356170,
+        "Match Title": "Gledura Benjamin-Akash Ganesan",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-gledura-benjamin-akash-ganesan/5356170",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Gledura Benjamin",
+                    "Odd value": 1.94
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.05
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Akash Ganesan",
+                    "Odd value": 12
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Gledura Benjamin did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.67
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Akash Ganesan did not lose",
+                    "Odd value": 1.75
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Challengers, Chess",
+        "Match ID": 5356171,
+        "Match Title": "Pultinevicius Paulius-Vykouk Jan",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-pultinevicius-paulius-vykouk-jan/5356171",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Pultinevicius Paulius",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.72
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Vykouk Jan",
+                    "Odd value": 4.55
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Pultinevicius Paulius did not lose",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.98
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Did not lose Vykouk Jan",
+                    "Odd value": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Prague Chess Festival - Challengers, Chess",
+        "Match ID": 5356173,
+        "Match Title": "Stalmach Richard-Motylev Alexander",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-stalmach-richard-motylev-alexander/5356173",
+        "Match odds": [
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Stalmach Richard",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Motylev Alexander",
+                    "Odd value": 5.75
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Stalmach Richard did not lose",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 2.68
+                }
+            },
+            {
+                "Market Title": "The result of the game",
+                "Odds": {
+                    "Name": "Motylev Alexander did not lose",
+                    "Odd value": 1.13
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Aimchess Rapid, Chess",
+        "Match ID": 5338951,
+        "Match Title": "Aimchess Rapid - overall",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/sachy-aimchess-rapid-celkove/5338951",
+        "Match odds": [
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2.3
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.53
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 4.5
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.19
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 5
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.13
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 5.5
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 9.5
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 12.5
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 22
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 44
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            }
+        ]
+    }
+]

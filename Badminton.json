@@ -1,0 +1,662 @@
+[
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345698,
+        "Match Title": "Atilano-Cert",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-atilano-bernardo-kert-karl/5345698",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Atilano",
+                    "Odd value": 1.13
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Kert",
+                    "Odd value": 4.69
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345697,
+        "Match Title": "T.Popov Junior-Kuenzi",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-popov-toma-junior-kuenzi-tobias/5345697",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "T. Popov Junior",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Kuenzi",
+                    "Odd value": 10.8
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345709,
+        "Match Title": "Ch. Popov-Mat. Abela",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-popov-christo-abela-matthew/5345709",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Ch. Popov",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Mat. Abel",
+                    "Odd value": 10.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345710,
+        "Match Title": "G.Pytel-Spoljarec",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-pytel-gergo-spoljarec-filip/5345710",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "G. Bag",
+                    "Odd value": 1.41
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "A fellow student",
+                    "Odd value": 2.59
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345722,
+        "Match Title": "Yanakiev-Dwicahyo",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-yanakiev-dimitar-dwicahyo-ade-resky/5345722",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Yanakiev",
+                    "Odd value": 3.67
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Dwicahyo",
+                    "Odd value": 1.21
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345691,
+        "Match Title": "A.Antonsen-F.Burestedt",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-antonsen-anders-burestedt-felix/5345691",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "A. Antonsen",
+                    "Odd value": 1.03
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "F. Burestedt",
+                    "Odd value": 7.95
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345685,
+        "Match Title": "V. Axelsen-Cioroboiu",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-axelsen-viktor-cioroboiu-teodor-ioan/5345685",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "V. Axelsen",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Cioroboiu",
+                    "Odd value": 10.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345692,
+        "Match Title": "K. Koljonen-Lale",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-koljonen-kalle-lale-emre/5345692",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "K. Koljonen",
+                    "Odd value": 1.06
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Tulip",
+                    "Odd value": 6.83
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345686,
+        "Match Title": "Kwinta-Toti",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-kwinta-dominik-toti-giovanni/5345686",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Kwinta",
+                    "Odd value": 1.98
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Toti",
+                    "Odd value": 1.7
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345704,
+        "Match Title": "Caljouw-M. Dratva",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-caljouw-mark-dratva-milan/5345704",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Caljouw",
+                    "Odd value": 1.04
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "M. Dratva",
+                    "Odd value": 7.87
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345715,
+        "Match Title": "M. Zilberman-Krapez",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-zilberman-misha-krapez-andraz/5345715",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "M. Zilberman",
+                    "Odd value": 1.03
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Crappie",
+                    "Odd value": 7.95
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345716,
+        "Match Title": "M.Barth-Pauquet",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-barth-markus-pauquet-jerome/5345716",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "M. Barth",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Pauquet",
+                    "Odd value": 8.6
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345728,
+        "Match Title": "J.Carraggi-Schaefer",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-carraggi-julien-schaefer-kai/5345728",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "J. Carraggi",
+                    "Odd value": 1.7
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Schaefer",
+                    "Odd value": 1.98
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345703,
+        "Match Title": "N. Nguyen-Torjussen",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-nguyen-nhat-torjussen-johnnie/5345703",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "N. Nguyen",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Torjussen",
+                    "Odd value": 5.46
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton men - singles",
+        "Match ID": 5345727,
+        "Match Title": "Louda-L. Wraber",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-louda-jan-wraber-luka/5345727",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Loud",
+                    "Odd value": 1.09
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "L. Wraber",
+                    "Odd value": 5.74
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345764,
+        "Match Title": "Nyqvist-Hamza",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-nyqvist-nella-hamza-yasmine/5345764",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Nyqvist",
+                    "Odd value": 1.32
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Hamza",
+                    "Odd value": 2.93
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345763,
+        "Match Title": "L.Tan-Sandorhazi",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-tan-lianne-sandorhazi-vivien/5345763",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "L. Tan",
+                    "Odd value": 1.12
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Sandorhazi",
+                    "Odd value": 4.91
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345758,
+        "Match Title": "Dabczynska-E.Christodoulou",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-dabczynska-wiktoria-christodoulou-eleni/5345758",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Dabczynska",
+                    "Odd value": 1.18
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "E. Christodoulou",
+                    "Odd value": 3.96
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345757,
+        "Match Title": "K. Gilmour-Laurens",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-gilmour-kirsty-laurens-jaymie/5345757",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "K. Gilmour",
+                    "Odd value": 1.01
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Lawrence",
+                    "Odd value": 9.2
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345752,
+        "Match Title": "K.F.Az Zahra-V.Ginga",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-az-zahra-keisha-fatimah-ginga-vlada/5345752",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "K.F.Az Zahra",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "V. Ginga",
+                    "Odd value": 5.6
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345751,
+        "Match Title": "Yv.Li-Golubickaite",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-li-yvonne-golubickaite-samanta/5345751",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Yv. Li",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Golubickaite",
+                    "Odd value": 10.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345776,
+        "Match Title": "Cuba-Yigit",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-kuuba-kristin-yigit-neslihan/5345776",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Cuba",
+                    "Odd value": 1.83
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Yigit",
+                    "Odd value": 1.83
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345778,
+        "Match Title": "Sotiriou-Romanova",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-sotiriou-grammatoula-romanova-jekaterina/5345778",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Sotiria",
+                    "Odd value": 1.6
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Romanova",
+                    "Odd value": 2.11
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345769,
+        "Match Title": "X.Qi-\u0160vab\u00edkov\u00e1",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-qi-xuefei-svabikova-tereza/5345769",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "X. Qi",
+                    "Odd value": 1.01
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "\u0160vab\u00edkov\u00e1",
+                    "Odd value": 9.18
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345770,
+        "Match Title": "Darragh-Sudimac",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-darragh-rachael-sudimac-marija/5345770",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Darragh",
+                    "Odd value": 1.13
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Sudimac",
+                    "Odd value": 4.69
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345733,
+        "Match Title": "Marin-K.Vargov\u00e1",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-marin-carolina-vargova-katarina/5345733",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Marine",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "K. Vargov\u00e1",
+                    "Odd value": 10.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345746,
+        "Match Title": "Popovska-Buhrova",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-popovska-hristomira-buhrova-polina/5345746",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Popovska",
+                    "Odd value": 4.69
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Buhrova",
+                    "Odd value": 1.13
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345739,
+        "Match Title": "Blichfeldt-Polanc",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-blichfeldt-mia-polanc-petra/5345739",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Blichfeldt",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Polish",
+                    "Odd value": 10.0
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345740,
+        "Match Title": "K. Schmidt-Neudolt",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-schmidt-kim-neudolt-katrin/5345740",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "K. Schmidt",
+                    "Odd value": 4.69
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Can't resist",
+                    "Odd value": 1.13
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "EH Krakow, Badminton Women - Singles",
+        "Match ID": 5345734,
+        "Match Title": "Polikarpova-J.Stadelmann",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/badminton-polikarpova-ksenia-stadelmann-jenjira/5345734",
+        "Match odds": [
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "Polikarpova",
+                    "Odd value": 2.59
+                }
+            },
+            {
+                "Market Title": "Match winner",
+                "Odds": {
+                    "Name": "J. Stadelmann",
+                    "Odd value": 1.41
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "Competition Title": "Grand Prix 2023, Formula",
+        "Match ID": 5010665,
+        "Match Title": "WC riders 2023 - overall",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/motorsport-ms-jezdcu-2023-celkove/5010665",
+        "Match odds": [
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Hamilton Lewis",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Leclerc Charles",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Hamilton Lewis",
+                    "Odd value": 1.04
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Russell George",
+                    "Odd value": 8
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Hamilton Lewis",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Sainz Carlos",
+                    "Odd value": 10.0
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Leclerc Charles",
+                    "Odd value": 1.94
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Russell George",
+                    "Odd value": 1.75
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Leclerc Charles",
+                    "Odd value": 1.55
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Sainz Carlos",
+                    "Odd value": 2.26
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Russell George",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Sainz Carlos",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Norris Lando",
+                    "Odd value": 5.62
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Ocon Esteban",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Norris Lando",
+                    "Odd value": 1.07
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Piastri Oscar",
+                    "Odd value": 6.56
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Stroll Lance",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Ocon Esteban",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Stroll Lance",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Gasly Pierre",
+                    "Odd value": 5.62
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Ocon Esteban",
+                    "Odd value": 1.2
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Gasly Pierre",
+                    "Odd value": 3.94
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Bottas Valtteri",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Zhou Guanyu",
+                    "Odd value": 3.48
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Magnussen Kevin",
+                    "Odd value": 3.94
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Hulkenberg Nico",
+                    "Odd value": 1.2
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "De Vries Nyck",
+                    "Odd value": 5.62
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Tsunoda Yuki",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Perez Sergio",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Alonso Fernando",
+                    "Odd value": 4.6
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Perez Sergio",
+                    "Odd value": 1.3
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Hamilton Lewis",
+                    "Odd value": 3.15
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Alonso Fernando",
+                    "Odd value": 1.08
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Leclerc Charles",
+                    "Odd value": 6.21
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Alonso Fernando",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Hamilton Lewis",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Alonso Fernando",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Sainz Carlos",
+                    "Odd value": 7.5
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Grand Prix 2023, Formula",
+        "Match ID": 5010666,
+        "Match Title": "Constructors' Cup 2023 - overall",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/motorsport-pohar-konstrukteru-2023-celkove/5010666",
+        "Match odds": [
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Mercedes GP",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Ferrari",
+                    "Odd value": 4.6
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Alpine",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "McLaren",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Alfa Romeo",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Alpha Tauri",
+                    "Odd value": 5.62
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Haas",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Williams",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Aston Martin",
+                    "Odd value": 3.15
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Mercedes GP",
+                    "Odd value": 1.3
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Aston Martin",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Ferrari",
+                    "Odd value": 2.52
+                }
+            }
+        ]
+    }
+]

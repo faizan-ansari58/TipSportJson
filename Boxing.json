@@ -1,0 +1,314 @@
+[
+    {
+        "Competition Title": "Exhibition, Boxing - men",
+        "Match ID": 5214112,
+        "Match Title": "Paul Jake-Diaz Nate",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-paul-jake-diaz-nate/5214112",
+        "Match odds": [
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Paul Jake",
+                    "Odd value": 1.35
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Diaz Nate",
+                    "Odd value": 2.91
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5366616,
+        "Match Title": "Anderson Jared-Martin Charles",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-anderson-jared-martin-charles/5366616",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Anderson Jared",
+                    "Odd value": 1.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Martin Charles",
+                    "Odd value": 7.23
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5334438,
+        "Match Title": "Ennis Jaron-Villa Roiman",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-ennis-jaron-villa-roiman/5334438",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Ennis Jaron",
+                    "Odd value": 1.08
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 22
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Villa Roiman",
+                    "Odd value": 8.85
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5334439,
+        "Match Title": "Stanionis Eimantas-Ortiz Vergil",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-stanionis-eimantas-ortiz-vergil/5334439",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Stanionis Eimantas",
+                    "Odd value": 4
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 20.0
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Ortiz Vergil",
+                    "Odd value": 1.27
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5320427,
+        "Match Title": "Hughes Maxi-Kambosos George",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-hughes-maxi-kambosos-george/5320427",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Hughes Max",
+                    "Odd value": 3.16
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 20.0
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kambosos George",
+                    "Odd value": 1.4
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5361207,
+        "Match Title": "Davis Keyshawn-Patera Francesco",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-davis-keyshawn-patera-francesco/5361207",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Davis Keyshawn",
+                    "Odd value": 1.01
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 30.0
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Father Francesco",
+                    "Odd value": 18
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5362221,
+        "Match Title": "Ramirez Carrazana Robeisy-Shimizu Satoshi",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-ramirez-carrazana-robeisy-shimizu-satoshi/5362221",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Ramirez Carrazan Robeysa",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 28
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Shimizu Satoshi",
+                    "Odd value": 10.8
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5278295,
+        "Match Title": "Fulton Stephen-Inoue Naoya",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-fulton-stephen-inoue-naoya/5278295",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Fulton Stephen",
+                    "Odd value": 3.16
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 20.0
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Inoue Naoya",
+                    "Odd value": 1.4
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5227401,
+        "Match Title": "Spence Errol-Crawford Terence",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-spence-errol-crawford-terence/5227401",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Spence Errol",
+                    "Odd value": 2.14
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 17
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Crawford Terence",
+                    "Odd value": 1.8
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5334437,
+        "Match Title": "Navarrete Emanuel-Valdez Oscar",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-navarrete-emanuel-valdez-oscar/5334437",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Navarrete Emanuel",
+                    "Odd value": 2.29
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 18
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Oscar Valdez",
+                    "Odd value": 1.7
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Boxing, Boxing - men",
+        "Match ID": 5304387,
+        "Match Title": "Beterbiev Artur-Smith Callum",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/box-beterbiev-artur-smith-callum/5304387",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Artur Beterbiev",
+                    "Odd value": 1.32
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 20.0
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Callum Smith",
+                    "Odd value": 3.67
+                }
+            }
+        ]
+    }
+]

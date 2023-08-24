@@ -1,0 +1,496 @@
+[
+    {
+        "Competition Title": "ball, Athletics - men",
+        "Match ID": 5365660,
+        "Match Title": "ZT Ostrava - ball M",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/atletika-zt-ostrava-koule-m/5365660",
+        "Match odds": [
+            {
+                "Market Title": "Best performance in the race - litter",
+                "Odds": {
+                    "Name": "Less than 22.65 m",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Best performance in the race - litter",
+                "Odds": {
+                    "Name": "22.65 m and more",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Best performance in the race - litter",
+                "Odds": {
+                    "Name": "Less than 21.43 m",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Best performance in the race - litter",
+                "Odds": {
+                    "Name": "21.43 m and more",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Crouser Ryan",
+                    "Odd value": 1.11
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Walsh Tom",
+                    "Odd value": 5.05
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Fabbri Leonardo",
+                    "Odd value": 1.6
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Mihaljevic Filip",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Fabbri Leonardo",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Stanek Tomas",
+                    "Odd value": 2.31
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Mihaljevic Filip",
+                    "Odd value": 1.7
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Stanek Tomas",
+                    "Odd value": 1.96
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Stanek Tomas",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Hassan Mostafa Amr",
+                    "Odd value": 2.6
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "javelin, Athletics - men",
+        "Match ID": 5366621,
+        "Match Title": "ZT Ostrava - javelin M",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/atletika-zt-ostrava-ostep-m/5366621",
+        "Match odds": [
+            {
+                "Market Title": "Best performance in the race - hrs",
+                "Odds": {
+                    "Name": "Less than 89.15 m",
+                    "Odd value": 1.8
+                }
+            },
+            {
+                "Market Title": "Best performance in the race - hrs",
+                "Odds": {
+                    "Name": "89.15 m and more",
+                    "Odd value": 1.84
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Vadlejch Jakub",
+                    "Odd value": 1.27
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Peter Anderson",
+                    "Odd value": 3.21
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Peter Anderson",
+                    "Odd value": 1.27
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Herman Timothy",
+                    "Odd value": 3.21
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Herman Timothy",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Strobinders Rolands",
+                    "Odd value": 2.44
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Strobinders Rolands",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "J\u00edlek Jaroslav",
+                    "Odd value": 2.67
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "J\u00edlek Jaroslav",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Florian Martin",
+                    "Odd value": 2.6
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Florian Martin",
+                    "Odd value": 1.75
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Final Martin",
+                    "Odd value": 1.9
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "pole, Athletics - men",
+        "Match ID": 5365658,
+        "Match Title": "ZT Ostrava - bar M",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/atletika-zt-ostrava-tyc-m/5365658",
+        "Match odds": [
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.1
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 5.5
+                }
+            },
+            {
+                "Market Title": "Best performance in the race - jump",
+                "Odds": {
+                    "Name": "Less than 6.01 m",
+                    "Odd value": 1.7
+                }
+            },
+            {
+                "Market Title": "Best performance in the race - jump",
+                "Odds": {
+                    "Name": "6.01 m and more",
+                    "Odd value": 1.96
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Duplantis Armand",
+                    "Odd value": 1.07
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Obiena Ernest Joh",
+                    "Odd value": 6.09
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Obiena Ernest Joh",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Marshall Kurtis",
+                    "Odd value": 3.35
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Obiena Ernest Joh",
+                    "Odd value": 1.3
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Kar\u00e1lis Emmanou\u00edl",
+                    "Odd value": 3.03
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Kar\u00e1lis Emmanou\u00edl",
+                    "Odd value": 1.8
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Marshall Kurtis",
+                    "Odd value": 1.84
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Kar\u00e1lis Emmanou\u00edl",
+                    "Odd value": 1.8
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Collet Thibaut",
+                    "Odd value": 1.84
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Collet Thibaut",
+                    "Odd value": 1.57
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Lillefosse Pal Haugen",
+                    "Odd value": 2.16
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Fox Piotr",
+                    "Odd value": 1.58
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Lillefosse Pal Haugen",
+                    "Odd value": 2.15
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Collet Thibaut",
+                    "Odd value": 1.81
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Fox Piotr",
+                    "Odd value": 1.83
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "javelin, Athletics - women",
+        "Match ID": 5365657,
+        "Match Title": "ZT Ostrava - javelin \u017d",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/atletika-zt-ostrava-ostep-z/5365657",
+        "Match odds": [
+            {
+                "Market Title": "Best performance in the race - hrs",
+                "Odds": {
+                    "Name": "Less than 60.55 m",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Best performance in the race - hrs",
+                "Odds": {
+                    "Name": "60.55 m and more",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Kitaguchi Haruka",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Gardener Nikola",
+                    "Odd value": 3.35
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Kitaguchi Haruka",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Vilago\u0161 Adriana",
+                    "Odd value": 3.35
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Gardener Nikola",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Vilago\u0161 Adriana",
+                    "Odd value": 1.82
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Gardener Nikola",
+                    "Odd value": 1.68
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Tzenggo Elina",
+                    "Odd value": 1.99
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Gardener Nikola",
+                    "Odd value": 1.55
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Cake Sara",
+                    "Odd value": 2.2
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Gardener Nikola",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Irena Gillar",
+                    "Odd value": 2.44
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Vilago\u0161 Adriana",
+                    "Odd value": 1.55
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Cake Sara",
+                    "Odd value": 2.2
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Vilago\u0161 Adriana",
+                    "Odd value": 1.68
+                }
+            },
+            {
+                "Market Title": "Who will be classified as better placed",
+                "Odds": {
+                    "Name": "Tzenggo Elina",
+                    "Odd value": 1.99
+                }
+            }
+        ]
+    }
+]

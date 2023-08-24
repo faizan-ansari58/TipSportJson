@@ -1,0 +1,2402 @@
+[
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357184,
+        "Match Title": "Vafaei Hossein-Quinn Fergal",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-vafaei-hossein-quinn-fergal/5357184",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Vafaei Hossein",
+                    "Odd value": 1.24
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 5.02
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Quinn Fergal",
+                    "Odd value": 11.8
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Vafaei Hossein did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.14
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Quinn Fergal did not lose",
+                    "Odd value": 3.38
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357190,
+        "Match Title": "Wakelin Chris-Pullen Liam",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-wakelin-chris-pullen-liam/5357190",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wakelin Chris",
+                    "Odd value": 1.52
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.47
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pullen Liam",
+                    "Odd value": 6.92
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wakelin Chris didn't lose",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pullen Liam didn't lose",
+                    "Odd value": 2.29
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357185,
+        "Match Title": "Hill Aaron-O'Donnell Martin",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-hill-aaron-odonnell-martin/5357185",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Hill Aaron",
+                    "Odd value": 3.26
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.49
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "O'Donnell Martin",
+                    "Odd value": 2.55
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Hill Aaron did not lose",
+                    "Odd value": 1.41
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.44
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by O'Donnell Martin",
+                    "Odd value": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357191,
+        "Match Title": "Lines Oliver-Kazakov Anton",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-lines-oliver-kazakov-anton/5357191",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Lines Oliver",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kazakov Anton",
+                    "Odd value": 8.76
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Lines Oliver",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.24
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kazakov Anton did not lose",
+                    "Odd value": 2.46
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357186,
+        "Match Title": "Vafaei Hossein-O'Donnell Martin",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-vafaei-hossein-odonnell-martin/5357186",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Vafaei Hossein",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.57
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "O'Donnell Martin",
+                    "Odd value": 4.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Vafaei Hossein did not lose",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by O'Donnell Martin",
+                    "Odd value": 1.59
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357192,
+        "Match Title": "Wakelin Chris-Kazakov Anton",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-wakelin-chris-kazakov-anton/5357192",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wakelin Chris",
+                    "Odd value": 1.34
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 4.16
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kazakov Anton",
+                    "Odd value": 9.77
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wakelin Chris didn't lose",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.18
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kazakov Anton did not lose",
+                    "Odd value": 2.86
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357187,
+        "Match Title": "Hill Aaron-Quinn Fergal",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-hill-aaron-quinn-fergal/5357187",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Hill Aaron",
+                    "Odd value": 1.63
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.01
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Quinn Fergal",
+                    "Odd value": 6.78
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Hill Aaron did not lose",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.31
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Quinn Fergal did not lose",
+                    "Odd value": 2.07
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357193,
+        "Match Title": "Lines Oliver-Pullen Liam",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-lines-oliver-pullen-liam/5357193",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Lines Oliver",
+                    "Odd value": 1.64
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.05
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pullen Liam",
+                    "Odd value": 6.44
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Lines Oliver",
+                    "Odd value": 1.06
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.31
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pullen Liam didn't lose",
+                    "Odd value": 2.06
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357195,
+        "Match Title": "Kazakov Anton-Pullen Liam",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-kazakov-anton-pullen-liam/5357195",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kazakov Anton",
+                    "Odd value": 3.71
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.58
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pullen Liam",
+                    "Odd value": 2.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Kazakov Anton did not lose",
+                    "Odd value": 1.51
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.41
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pullen Liam didn't lose",
+                    "Odd value": 1.2
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357189,
+        "Match Title": "O'Donnell Martin-Quinn Fergal",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-odonnell-martin-quinn-fergal/5357189",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "O'Donnell Martin",
+                    "Odd value": 1.54
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Quinn Fergal",
+                    "Odd value": 7.24
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by O'Donnell Martin",
+                    "Odd value": 1.04
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Quinn Fergal did not lose",
+                    "Odd value": 2.23
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357188,
+        "Match Title": "Vafaei Hossein-Hill Aaron",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-vafaei-hossein-hill-aaron/5357188",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Vafaei Hossein",
+                    "Odd value": 2.01
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.71
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Hill Aaron",
+                    "Odd value": 4.28
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Vafaei Hossein did not lose",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Hill Aaron did not lose",
+                    "Odd value": 1.65
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357194,
+        "Match Title": "Wakelin Chris-Lines Oliver",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-wakelin-chris-lines-oliver/5357194",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wakelin Chris",
+                    "Odd value": 2.41
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.48
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Lines Oliver",
+                    "Odd value": 3.53
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wakelin Chris didn't lose",
+                    "Odd value": 1.22
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.44
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Lines Oliver",
+                    "Odd value": 1.45
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357178,
+        "Match Title": "Day Ryan-Jiang Jun",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-day-ryan-jiang-jun/5357178",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Day Ryan",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.47
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Jiang Jun",
+                    "Odd value": 8.74
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Day Ryan didn't lose",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Jiang Jun did not lose",
+                    "Odd value": 2.45
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357197,
+        "Match Title": "O'Connor Joe-Davies Alfie",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-oconnor-joe-davies-alfie/5357197",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "O'Connor Joe",
+                    "Odd value": 1.3
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 4.44
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Davies Alfie",
+                    "Odd value": 10.3
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Don't lose O'Connor Joe",
+                    "Odd value": 1.01
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.16
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Davies Alfie",
+                    "Odd value": 3.02
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357179,
+        "Match Title": "White Michael-Himanshu Dinesh Jain",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-white-michael-himanshu-dinesh-jain/5357179",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "White Michael",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 4.75
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Himanshu Dinesh Jain",
+                    "Odd value": 11.9
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "White Michael did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten by Himanshu Dinesh Jain",
+                    "Odd value": 3.28
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357198,
+        "Match Title": "Williams Robbie-Surety Zak",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-williams-robbie-surety-zak/5357198",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Williams Robbie",
+                    "Odd value": 1.91
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.71
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Surety Zak",
+                    "Odd value": 4.79
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Williams Robbie",
+                    "Odd value": 1.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing Surety Zak",
+                    "Odd value": 1.73
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357180,
+        "Match Title": "Day Ryan-Himanshu Dinesh Jain",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-day-ryan-himanshu-dinesh-jain/5357180",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Day Ryan",
+                    "Odd value": 1.18
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 5.58
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Himanshu Dinesh Jain",
+                    "Odd value": 14.4
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Day Ryan didn't lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.12
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten by Himanshu Dinesh Jain",
+                    "Odd value": 3.76
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357199,
+        "Match Title": "O'Connor Joe-Surety Zak",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-oconnor-joe-surety-zak/5357199",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "O'Connor Joe",
+                    "Odd value": 1.81
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.71
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Surety Zak",
+                    "Odd value": 5.69
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Don't lose O'Connor Joe",
+                    "Odd value": 1.08
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing Surety Zak",
+                    "Odd value": 1.83
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357181,
+        "Match Title": "White Michael-Jiang Jun",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-white-michael-jiang-jun/5357181",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "White Michael",
+                    "Odd value": 1.58
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.23
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Jiang Jun",
+                    "Odd value": 6.67
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "White Michael did not lose",
+                    "Odd value": 1.05
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.28
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Jiang Jun did not lose",
+                    "Odd value": 2.16
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357200,
+        "Match Title": "Williams Robbie-Davies Alfie",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-williams-robbie-davies-alfie/5357200",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Williams Robbie",
+                    "Odd value": 1.37
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.88
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Davies Alfie",
+                    "Odd value": 9.7
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Williams Robbie",
+                    "Odd value": 1.02
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.2
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Davies Alfie",
+                    "Odd value": 2.73
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357183,
+        "Match Title": "Himanshu Dinesh Jain-Jiang Jun",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-himanshu-dinesh-jain-jiang-jun/5357183",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Himanshu Dinesh Jain",
+                    "Odd value": 4.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.57
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Jiang Jun",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten by Himanshu Dinesh Jain",
+                    "Odd value": 1.59
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Jiang Jun did not lose",
+                    "Odd value": 1.15
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357203,
+        "Match Title": "Surety Zak-Davies Alfie",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-surety-zak-davies-alfie/5357203",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Surety Zak",
+                    "Odd value": 1.85
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.72
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Davies Alfie",
+                    "Odd value": 5.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing Surety Zak",
+                    "Odd value": 1.09
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.37
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Davies Alfie",
+                    "Odd value": 1.79
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357182,
+        "Match Title": "Day Ryan-White Michael",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-day-ryan-white-michael/5357182",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Day Ryan",
+                    "Odd value": 2.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.44
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "White Michael",
+                    "Odd value": 3.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Day Ryan didn't lose",
+                    "Odd value": 1.23
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.46
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "White Michael did not lose",
+                    "Odd value": 1.42
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357201,
+        "Match Title": "O'Connor Joe-Williams Robbie",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-oconnor-joe-williams-robbie/5357201",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "O'Connor Joe",
+                    "Odd value": 2.62
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.44
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Williams Robbie",
+                    "Odd value": 3.23
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Don't lose O'Connor Joe",
+                    "Odd value": 1.26
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.46
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Williams Robbie",
+                    "Odd value": 1.38
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357372,
+        "Match Title": "Un-Nooh Tchepchaiya-Nuessle Florian",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-un-nooh-tchepchaiya-nuessle-florian/5357372",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Un-Nooh Tchepchaiya",
+                    "Odd value": 1.81
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.71
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Nuessle Florian",
+                    "Odd value": 5.69
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Un-Nooh Tchepchaiya did not lose",
+                    "Odd value": 1.08
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "No loss to Nuessle Florian",
+                    "Odd value": 1.83
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357231,
+        "Match Title": "Wilson Kyren-Heathcote Louis",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-wilson-kyren-heathcote-louis/5357231",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wilson Kyren",
+                    "Odd value": 1.67
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.98
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Heathcote Louis",
+                    "Odd value": 6.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Wilson Kyren",
+                    "Odd value": 1.06
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.32
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten by Heathcote Louis",
+                    "Odd value": 2
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357232,
+        "Match Title": "Hicks Andy-Iqbal Asjad",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-hicks-andy-iqbal-asjad/5357232",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Andy Hicks",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.57
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Iqbal Asjad",
+                    "Odd value": 4.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Hicks Andy",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not out Iqbal Asjad",
+                    "Odd value": 1.59
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357373,
+        "Match Title": "Slessor Elliot-Sarkis Victor",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-slessor-elliot-sarkis-victor/5357373",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Slessor Elliot",
+                    "Odd value": 1.23
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 4.93
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Victor Sarkis",
+                    "Odd value": 13.4
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Slessor Elliot",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.14
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Sarkis Victor did not lose",
+                    "Odd value": 3.45
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357374,
+        "Match Title": "Un-Nooh Tchepchaiya-Sarkis Victor",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-un-nooh-tchepchaiya-sarkis-victor/5357374",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Un-Nooh Tchepchaiya",
+                    "Odd value": 1.14
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 6.35
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Victor Sarkis",
+                    "Odd value": 17.4
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Un-Nooh Tchepchaiya did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.09
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Sarkis Victor did not lose",
+                    "Odd value": 4.31
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357233,
+        "Match Title": "Wilson Kyren-Iqbal Asjad",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-wilson-kyren-iqbal-asjad/5357233",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wilson Kyren",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 4.75
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Iqbal Asjad",
+                    "Odd value": 11.9
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Wilson Kyren",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not out Iqbal Asjad",
+                    "Odd value": 3.28
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357234,
+        "Match Title": "Hicks Andy-Heathcote Louis",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-hicks-andy-heathcote-louis/5357234",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Andy Hicks",
+                    "Odd value": 3.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.44
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Heathcote Louis",
+                    "Odd value": 2.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Hicks Andy",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.46
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten by Heathcote Louis",
+                    "Odd value": 1.23
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357375,
+        "Match Title": "Slessor Elliot-Nuessle Florian",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-slessor-elliot-nuessle-florian/5357375",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Slessor Elliot",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.57
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Nuessle Florian",
+                    "Odd value": 4.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Slessor Elliot",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "No loss to Nuessle Florian",
+                    "Odd value": 1.59
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357236,
+        "Match Title": "Iqbal Asjad-Heathcote Louis",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-iqbal-asjad-heathcote-louis/5357236",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Iqbal Asjad",
+                    "Odd value": 5.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.72
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Heathcote Louis",
+                    "Odd value": 1.85
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not out Iqbal Asjad",
+                    "Odd value": 1.79
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.37
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten by Heathcote Louis",
+                    "Odd value": 1.09
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357377,
+        "Match Title": "Sarkis Victor-Nuessle Florian",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-sarkis-victor-nuessle-florian/5357377",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Victor Sarkis",
+                    "Odd value": 8.74
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.47
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Nuessle Florian",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Sarkis Victor did not lose",
+                    "Odd value": 2.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "No loss to Nuessle Florian",
+                    "Odd value": 1.02
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357376,
+        "Match Title": "Un-Nooh Tchepchaiya-Slessor Elliot",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-un-nooh-tchepchaiya-slessor-elliot/5357376",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Un-Nooh Tchepchaiya",
+                    "Odd value": 2.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.58
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Slessor Elliot",
+                    "Odd value": 3.71
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Un-Nooh Tchepchaiya did not lose",
+                    "Odd value": 1.2
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.41
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Slessor Elliot",
+                    "Odd value": 1.51
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357235,
+        "Match Title": "Wilson Kyren-Hicks Andy",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-wilson-kyren-hicks-andy/5357235",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Wilson Kyren",
+                    "Odd value": 1.52
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.3
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Andy Hicks",
+                    "Odd value": 7.79
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Wilson Kyren",
+                    "Odd value": 1.03
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Hicks Andy",
+                    "Odd value": 2.29
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357360,
+        "Match Title": "Brown Jordan-Pinches Barry",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-brown-jordan-pinches-barry/5357360",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Brown Jordan",
+                    "Odd value": 1.73
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.83
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pinches Barry",
+                    "Odd value": 6.13
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Brown Jordan didn't lose",
+                    "Odd value": 1.07
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.35
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing to Pinches Barry",
+                    "Odd value": 1.92
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357237,
+        "Match Title": "Williams Mark J.-Leong Thor Chuan",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-williams-mark-j-leong-thor-chuan/5357237",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Williams Mark J.",
+                    "Odd value": 1.25
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 4.75
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leong Thor Chuan",
+                    "Odd value": 11.9
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Williams Mark J.",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leong Thor Chuan did not lose",
+                    "Odd value": 3.28
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357239,
+        "Match Title": "Emery Dylan-Doherty Ken",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-emery-dylan-doherty-ken/5357239",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Emery Dylan",
+                    "Odd value": 2.89
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.46
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Doherty Ken",
+                    "Odd value": 2.89
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Emery Dylan didn't lose",
+                    "Odd value": 1.32
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Doherty Ken",
+                    "Odd value": 1.32
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357361,
+        "Match Title": "Leclercq Julien-Fou Marco",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-leclercq-julien-fu-marco/5357361",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leclercq Julien",
+                    "Odd value": 4.34
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.7
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Fu Marco",
+                    "Odd value": 2.01
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leclercq Julien did not lose",
+                    "Odd value": 1.66
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "He didn't lose to Fu Marco",
+                    "Odd value": 1.14
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357362,
+        "Match Title": "Brown Jordan-Fu Marco",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-brown-jordan-fu-marco/5357362",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Brown Jordan",
+                    "Odd value": 3.01
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.46
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Fu Marco",
+                    "Odd value": 2.77
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Brown Jordan didn't lose",
+                    "Odd value": 1.35
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.45
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "He didn't lose to Fu Marco",
+                    "Odd value": 1.3
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357248,
+        "Match Title": "Williams Mark J.-Doherty Ken",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-williams-mark-j-doherty-ken/5357248",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Williams Mark J.",
+                    "Odd value": 1.54
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Doherty Ken",
+                    "Odd value": 7.24
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Williams Mark J.",
+                    "Odd value": 1.04
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Doherty Ken",
+                    "Odd value": 2.23
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357249,
+        "Match Title": "Emery Dylan-Leong Thor Chuan",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-emery-dylan-leong-thor-chuan/5357249",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Emery Dylan",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.57
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leong Thor Chuan",
+                    "Odd value": 4.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Emery Dylan didn't lose",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leong Thor Chuan did not lose",
+                    "Odd value": 1.59
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357363,
+        "Match Title": "Leclercq Julien-Pinches Barry",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-leclercq-julien-pinches-barry/5357363",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leclercq Julien",
+                    "Odd value": 2.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.58
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pinches Barry",
+                    "Odd value": 3.71
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leclercq Julien did not lose",
+                    "Odd value": 1.2
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.41
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing to Pinches Barry",
+                    "Odd value": 1.51
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357251,
+        "Match Title": "Doherty Ken-Leong Thor Chuan",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-doherty-ken-leong-thor-chuan/5357251",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Doherty Ken",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.57
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leong Thor Chuan",
+                    "Odd value": 4.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Undefeated by Doherty Ken",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leong Thor Chuan did not lose",
+                    "Odd value": 1.59
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357365,
+        "Match Title": "Fu Marco-Pinches Barry",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-fu-marco-pinches-barry/5357365",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Fu Marco",
+                    "Odd value": 1.67
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.98
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Pinches Barry",
+                    "Odd value": 6.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "He didn't lose to Fu Marco",
+                    "Odd value": 1.06
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.32
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Not losing to Pinches Barry",
+                    "Odd value": 2
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357364,
+        "Match Title": "Brown Jordan-Leclercq Julien",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-brown-jordan-leclercq-julien/5357364",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Brown Jordan",
+                    "Odd value": 2.11
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 2.57
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leclercq Julien",
+                    "Odd value": 4.21
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Brown Jordan didn't lose",
+                    "Odd value": 1.15
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.42
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Leclercq Julien did not lose",
+                    "Odd value": 1.59
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Championship league, Snooker - men",
+        "Match ID": 5357250,
+        "Match Title": "Williams Mark J.-Emery Dylan",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/snooker-williams-mark-j-emery-dylan/5357250",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Williams Mark J.",
+                    "Odd value": 1.54
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 3.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Emery Dylan",
+                    "Odd value": 7.24
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Williams Mark J.",
+                    "Odd value": 1.04
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1.27
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Emery Dylan didn't lose",
+                    "Odd value": 2.23
+                }
+            }
+        ]
+    }
+]

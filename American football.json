@@ -1,0 +1,278 @@
+[
+    {
+        "Competition Title": "Tipsport Czech Bowl, American football - men",
+        "Match ID": 5351106,
+        "Match Title": "Ostrava Steelers-Znojmo Knights",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/americky-fotbal-ostrava-steelers-znojmo-knights/5351106",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Ostrava Steelers",
+                    "Odd value": 1.03
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 23.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Znojmo Knights",
+                    "Odd value": 14.3
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "The Ostrava Steelers did not lose",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Znojmo Knights did not lose",
+                    "Odd value": 8.95
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Ostrava Steelers",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Znojmo Knights",
+                    "Odd value": 11.4
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Ostrava Steelers",
+                    "Odd value": 1.09
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 17
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Znojmo Knights",
+                    "Odd value": 7.5
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "The Ostrava Steelers did not lose",
+                    "Odd value": 1.07
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Znojmo Knights did not lose",
+                    "Odd value": 5.3
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Tipsport Czech Bowl, American football - men",
+        "Match ID": 5351107,
+        "Match Title": "Highland Gladiators-Nitra Knights",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/americky-fotbal-vysocina-gladiators-nitra-knights/5351107",
+        "Match odds": [
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Highland Gladiators",
+                    "Odd value": 1.5
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 16
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Nitra Knights",
+                    "Odd value": 2.79
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Unbeaten Vyso\u010dina Gladiators",
+                    "Odd value": 1.38
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "Match result",
+                "Odds": {
+                    "Name": "Nitra Knights did not lose",
+                    "Odd value": 2.38
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Highland Gladiators",
+                    "Odd value": 1.44
+                }
+            },
+            {
+                "Market Title": "Winner of the match to a decision",
+                "Odds": {
+                    "Name": "Nitra Knights",
+                    "Odd value": 2.6
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Highland Gladiators",
+                    "Odd value": 1.6
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Draw",
+                    "Odd value": 10.5
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Nitra Knights",
+                    "Odd value": 2.55
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Unbeaten Vyso\u010dina Gladiators",
+                    "Odd value": 1.4
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "There will be no draw",
+                    "Odd value": 1
+                }
+            },
+            {
+                "Market Title": "1st half result",
+                "Odds": {
+                    "Name": "Nitra Knights did not lose",
+                    "Odd value": 2.05
+                }
+            }
+        ]
+    },
+    {
+        "Competition Title": "Tipsport Czech Bowl, American football - men",
+        "Match ID": 5355004,
+        "Match Title": "Tipsport Czech Bowl - overall 2023",
+        "Match URL": "https://www.tipsport.cz/kurzy/zapas/americky-fotbal-tipsport-czech-bowl-celkove-2023/5355004",
+        "Match odds": [
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 1.8
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.84
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 2
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.67
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 6
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1.07
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "Yes",
+                    "Odd value": 40.0
+                }
+            },
+            {
+                "Market Title": "Winner Yes/No",
+                "Odds": {
+                    "Name": "No",
+                    "Odd value": 1
+                }
+            }
+        ]
+    }
+]
